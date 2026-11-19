@@ -1,0 +1,6 @@
+﻿mujoco_menagerie/
+venv/
+__pycache__/
+*.mp4
+!results/*.mp4
+.ipynb_checkpoints/
